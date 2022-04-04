@@ -1,6 +1,10 @@
 import React from "react";
+import useReviews from "../../hooks/useReviews";
 import "./Home.css";
 const Home = () => {
+  
+  const [reviews,setReviews] = useReviews();
+
   return (
     <div className="container">
       <div className="row mt-5">
@@ -23,6 +27,7 @@ const Home = () => {
           />
         </div>
       </div>
+      
     </div>
   );
 };
