@@ -6,7 +6,8 @@ import "./Reviews.css";
 const Reviews = () => {
   const [reviews, setReviews] = useReviews();
   return (
-    <div className="container mt-5">
+    <div className="container mt-3">
+      <h2 className="text-center mb-4">What our customers say!</h2>
       <div className="row">
         {
             reviews.map((review) => (
