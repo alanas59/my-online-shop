@@ -3,10 +3,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+<<<<<<< HEAD
 
 * In the project directory, you can run:
    * In the project directory, you can run:
 
+=======
+***
+*In the project directory, you can run:
+>>>>>>> db84b6800871d0286270ddb9ddde144ea033e417
 
 ### `npm start`
 
