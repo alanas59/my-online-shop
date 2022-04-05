@@ -16,7 +16,7 @@ const Home = () => {
       <div className="row mt-5">
         <div className="col-lg-6 d-flex align-items-center">
           <div>
-            <h1 className="mb-3">Choose Your Best Camera</h1>
+            <h1 className="mb-4">Choose Your Best Camera</h1>
             <p>
               Measurement and control sensors are playing an increasingly
               important role in fields including robotics and industrial
