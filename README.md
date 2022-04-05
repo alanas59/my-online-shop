@@ -1,9 +1,6 @@
 # My Online Shop
 
-github code link [github code link](https://github.com/programming-hero-web-course-4/product-analysis-website-alanas59).
-
 live site link [live site](https://product-analysis-alanas.netlify.app/)
-
 
 ## What I have done in my wesite
 * I have installed react router dom and set up it in my whole
